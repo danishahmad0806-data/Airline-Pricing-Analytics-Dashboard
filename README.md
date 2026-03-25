@@ -63,7 +63,12 @@ This dashboard helps:
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here)
+<img width="1206" height="735" alt="Executive Overview -1" src="https://github.com/user-attachments/assets/bb7a8bf8-2a6d-4ed4-ac41-fe64f81da691" />
+<img width="1202" height="723" alt="Pricing Intelligence-2" src="https://github.com/user-attachments/assets/30720972-a8cc-42f1-941b-8ce800611900" />
+<img width="1202" height="725" alt="Route   Airline Performance Analysis-3" src="https://github.com/user-attachments/assets/ae11da44-96c4-48fe-af32-e0384bad4952" />
+<img width="1201" height="721" alt="Time   Stops Trade-off Analysis-4" src="https://github.com/user-attachments/assets/365df4d1-f7d1-474d-a6ea-dfe503bbd8c8" />
+<img width="1200" height="723" alt="Booking   pricing Insights-5" src="https://github.com/user-attachments/assets/530225dc-e2d7-4193-b7cb-ffeffa5b95d4" />
+
 
 ---
 
